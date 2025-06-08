@@ -1,10 +1,10 @@
-# Multilingual Chatbot with Text-to-Speech
+# BiLingual Chatbot 
 
 A Streamlit-based chatbot application that supports Yorùbá and French languages with text-to-speech capabilities, powered by Together AI's API.
 
 ## Features
 
-- **Multilingual Support**: Chat in Yorùbá and French languages
+- **Bilingual Support**: Chat in Yorùbá and French languages
 - **Text-to-Speech**: Listen to the chatbot's responses with language-appropriate voice settings
 - **Simple UI**: Easy-to-use interface with language selection
 - **Streaming Responses**: Messages appear in real-time as they are generated
