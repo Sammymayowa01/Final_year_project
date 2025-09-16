@@ -53,18 +53,6 @@ UI_STRINGS = {
     }
 }
 
-# Text-to-speech configurations
-TTS_CONFIG = {
-    "yoruba": {
-        "rate": 150,  # Speed of speech
-        "volume": 1.0  # Volume level
-    },
-    "french": {
-        "rate": 170,  # French typically sounds better slightly faster
-        "volume": 1.0
-    }
-}
-
 # Language mapping between display name and code
 LANGUAGE_DISPLAY_TO_CODE = {
     "Yorùbá": "yoruba",
@@ -73,4 +61,3 @@ LANGUAGE_DISPLAY_TO_CODE = {
 
 # Default language
 DEFAULT_LANGUAGE = "yoruba"
-
